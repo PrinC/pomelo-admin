@@ -10,7 +10,7 @@
         "heapdump": "0.2.9"
     },
     "peerDependencies" : {
-        "pomelo-logger" : "0.1.6"
+        "pomelo-logger" : "^0.1.6"
     },
     "devDependencies": {
         "should": ">=0.0.1",
